@@ -58,6 +58,6 @@ Contributions are what make the open source community such an amazing place to b
 
 ## Contact
 
-Sinjoy Saha 
+### SHIBAM NATH ❤❤
   * [LinkedIn](https://www.linkedin.com/in/shibam-nath-0a23a6227/)
   
