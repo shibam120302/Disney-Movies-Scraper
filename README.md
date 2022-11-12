@@ -1,6 +1,6 @@
 # Disney-Movies-Scraper
 
-![Disney-Movies](https://i.pinimg.com/originals/ff/a0/9c/ffa09cdd175a0938e6e2c6f98fac3ea4.gif)
+![Disney-Movies](https://media.tenor.com/faReuVSfEocAAAAC/ralph-breaks-the-internet-wreck-it-ralph.gif)
 
 [![GitHub contributors](https://img.shields.io/github/contributors/shibam120302/Disney-Movies-Scraper.svg)](https://GitHub.com/shibam120302/Disney-Movies-Scraper/graphs/contributors/)
 [![GitHub forks](https://img.shields.io/github/forks/shibam120302/Disney-Movies-Scraper.svg)](https://GitHub.com/shibam120302/Disney-Movies-Scraper/network/)
@@ -22,6 +22,8 @@
 ## About the Project
 
 In this [`Webscraping Project`](https://github.com/shibam120302/Disney-Movies-Scraper) Jupyter notebook, we scrape the Wikipedia pages for Disney movies to create a Disney Movies dataset. We scrape data like `Title`, `Directed by`, `Produced by`, `Written by`, `Narrated by`,  `Music by`, `Cinematography`, `Edited by`, `Production company`, `Distributed by`, `Release date`, `Running time`, `Country`, `Language` from Wikipedia. We also work with OMDb API to get `imdb`, `metascore`, `rotten_tomatoes` data. The data is stored as JSON and CSV and intermediately using Pickle library in Python.
+
+![Disney-Movies](https://i.pinimg.com/originals/ff/a0/9c/ffa09cdd175a0938e6e2c6f98fac3ea4.gif)
 
 
 ### Tasks
